@@ -1,0 +1,17 @@
+body {
+  margin: 0; 
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+header div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
